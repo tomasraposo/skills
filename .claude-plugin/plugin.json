@@ -1,0 +1,11 @@
+{
+  "name": "skills",
+  "description": "Workflow tools for Claude Code.",
+  "author": {
+    "name": "Tomas Raposo",
+    "url": "https://github.com/tomasraposo"
+  },
+  "skills": [
+    "./skills/productivity/label"
+  ]
+}
